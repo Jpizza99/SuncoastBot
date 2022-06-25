@@ -1,0 +1,18 @@
+{
+  "name": "suncoastbot",
+  "version": "1.0.0",
+  "description": "A bot made to control my suncoast discord server to be used by DevoidSloth  and others or just DevoidSloth",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DevoidSloth",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^13.8.0",
+    "ms": "^2.1.3"
+  },
+  "devDependencies": {
+    "eslint": "^8.18.0"
+  }
+}
